@@ -1,0 +1,7 @@
+.env
+fcm.json
+configmap.yaml
+*.exe
+deployment/
+/uploads
+/vendor
